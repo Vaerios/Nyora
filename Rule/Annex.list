@@ -7,3 +7,6 @@ DOMAIN,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
+
+# 其他
+DOMAIN,static.cloudflareinsights.com
