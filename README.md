@@ -95,7 +95,6 @@ Nyora / Surge
 ├── Script/              JavaScript 脚本及 YouTube 扩展
 ├── MCP/                 网络诊断与规则检查参考
 ├── icon/                服务图标及索引
-├── traffic_circle.svg   流量可视化素材
 └── README.md            项目说明
 ```
 
@@ -106,7 +105,7 @@ Nyora / Surge
 | **03 · MODULES** | [`Module/`](./Module/) | Google Rewrite、YouTube、流量展示 |
 | **04 · SCRIPTS** | [`Script/`](./Script/) | JavaScript 工具与 YouTube 子目录 |
 | **05 · MCP** | [`MCP/`](./MCP/) | 网络状态、分流检查与故障排查参考 |
-| **06 · VISUALS** | [`icon/`](./icon/) · [`traffic_circle.svg`](./traffic_circle.svg) | 图标及流量视觉素材 |
+| **06 · VISUALS** | [`icon/`](./icon/) | 图标及流量视觉素材 |
 
 <details>
 <summary><strong>◈ 规则资源 · Explore Rule Sets</strong></summary>
