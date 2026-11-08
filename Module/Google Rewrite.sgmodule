@@ -14,7 +14,7 @@
 # 𝐏𝐨𝐫𝐧
 (?i)^https?://www\.google\.[^/]+/search\?(?:[^&]*&)*q=91(?:&.*)?$ https://91porn.com/index.php 302
 # 𝐆𝐈𝐒
-(?i)^https?://www\.google\.[^/]+/search\?(?:[^&]*&)*q=gis(?:&.*)?$ https://anchen520i.github.io/gis-navigation/ 302
+(?i)^https?://www\.google\.[^/]+/search\?(?:[^&]*&)*q=gis(?:&.*)?$ https://vaerios.github.io/gis-navigation/ 302
 # 𝐆𝐢𝐭𝐇𝐮𝐛 𝐔𝐬𝐞𝐫𝐬
 (?i)^https?://www\.google\.[^/]+/search\?(?:[^&]*&)*q=gh(?:\+|%20)+([^&]+)(?:&.*)?$ https://github.com/search?q=$1&type=users 302
 # 𝐁𝐢𝐧𝐠
