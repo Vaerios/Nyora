@@ -2,6 +2,7 @@
     "name": "GitHub@Vaerios",
     "icons": [
          { "name": "Acher", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Acher.png"},
+         { "name": "Proxy", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Proxy.png"},
          { "name": "Ai", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Ai.png"},
          { "name": "Bilibili", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Bilibili.png"},
          { "name": "ChatGPT", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/ChatGPT.png"},
