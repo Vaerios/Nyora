@@ -271,7 +271,7 @@ RULE-SET,https://raw.githubusercontent.com/Vaerios/Nyora/Surge/Rule/Ai.list,Ai
 
 **Intelligent by Design. Precise by Nature.**
 
-<sub>Crafted for Surge · Curated by <a href="https://github.com/Vaerios">Vaerios</a></sub>
+<sub>Crafted for Surge by <a href="https://github.com/Vaerios">Vaerios</a></sub>
 
 <br><br>
 
