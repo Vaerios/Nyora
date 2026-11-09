@@ -1,5 +1,5 @@
 #!name=机场流量与到期信息
-#!desc=五行流量卡片：已用/总量、使用比例彩色进度条、50条分档趣味文案、到期与更新时间。无需 MITM。
+#!desc=机场订阅流量动态监测
 #!arguments=subscription_url,display_name:WestData
 #!arguments-desc=subscription_url 填机场完整原始订阅链接；display_name 填面板名称。脚本从 Vaerios/Nyora 自动下载，无需复制本地 JS。订阅链接仅填本机参数，不要写入公开文件。
 
