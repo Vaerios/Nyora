@@ -2,7 +2,6 @@
     "name": "GitHub@Vaerios",
     "icons": [
          { "name": "Acher", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Acher.png"},
-         { "name": "Proxy", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Proxy.png"},
          { "name": "Ai", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Ai.png"},
          { "name": "Australia", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Australia.png"},
          { "name": "Bilibili", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Bilibili.png"},
@@ -25,6 +24,7 @@
          { "name": "Mystic", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Mystic.png"},
          { "name": "Netflix", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Netflix.png"},
          { "name": "Pinterest", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Pinterest.png"},
+         { "name": "Proxy", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Proxy.png"},
          { "name": "Reddit", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Reddit.png"},
          { "name": "Safari", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Safari.png"},
          { "name": "Singapore", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/SG.png"},
@@ -43,4 +43,3 @@
          { "name": "YouTube", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/YouTube.png"}
     ]
 }
-
