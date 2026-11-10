@@ -1,7 +1,7 @@
 #!name=IP Loopback
 #!author=Acher
 #!desc=IP Rewrite
-#!category=Acher
+#!category=Mystic
 
 [General]
 ipv6-vif = disabled
