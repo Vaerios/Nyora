@@ -1,9 +1,9 @@
 {
     "name": "GitHub@Vaerios",
     "icons": [
-         { "name": "AI", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/AI.png"},
          { "name": "Acher", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Acher.png"},
          { "name": "Ai", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Ai.png"},
+         { "name": "AI", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/AI.png"},
          { "name": "Australia", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Australia.png"},
          { "name": "Bilibili", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Bilibili.png"},
          { "name": "ChatGPT", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/ChatGPT.png"},
