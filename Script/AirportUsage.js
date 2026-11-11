@@ -1,14 +1,3 @@
-/* Surge iOS / Mac generic panel script. No MITM, profile writes or third-party API.
- * Requested artwork: https://raw.githubusercontent.com/Vaerios/Nyora/refs/heads/Surge/traffic_circle.svg
- * Native Surge panels accept SF Symbols; use the closest supported traffic-circle glyph.
- * Data source: the subscription server's Subscription-Userinfo response header.
- * Fallback: if the header is missing (e.g. a GitHub gist raw URL, which never
- * sends Subscription-Userinfo), parse the traffic info nodes in the response
- * body instead: "当前流量：87.89G / 300.00G" and "到期时间：2027-06-18".
- * Those values are only as fresh as the gist content itself.
- * $argument is the COMPLETE subscription URL, not a query-string argument table.
- * Never log the URL, response body, credentials or raw network errors.
- */
 (function () {
   "use strict";
   var DAY = 86400000;
