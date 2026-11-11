@@ -8,4 +8,4 @@
 AirportUsagePanel = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/Vaerios/Nyora/refs/heads/Surge/Script/AirportUsage.js?v=2,argument="{{{subscription_url}}}"
 
 [Panel]
-{{{display_name}}} = script-name=AirportUsagePanel,update-interval=1800
+{{{display_name}}} = script-name=AirportUsagePanel,update-interval=600
