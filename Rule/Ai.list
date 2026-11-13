@@ -133,6 +133,8 @@ PROCESS-NAME,Claude
 PROCESS-NAME,Claude.exe
 PROCESS-NAME,Codex
 PROCESS-NAME,Codex.exe
+PROCESS-NAME,Cursor
+PROCESS-NAME,Cursor.exe
 PROCESS-NAME,antigravity
 PROCESS-NAME,chatgpt
 PROCESS-NAME,claude
@@ -140,3 +142,5 @@ PROCESS-NAME,claude.exe
 PROCESS-NAME,codex
 PROCESS-NAME,codex.exe
 PROCESS-NAME,cowork-svc.exe
+PROCESS-NAME,cursor
+PROCESS-NAME,cursor.exe
