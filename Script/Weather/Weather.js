@@ -16,19 +16,19 @@ $httpClient.get(apiUrl, (error, response, data) => {
     const city = result.cityInfo || {};
     const today = result.data.forecast[0];
     const lines = [
-      `📍 城市：${city.city || "未知"}`,
-      `🕒 更新时间：${city.updateTime || unavailable}`,
-      `🌤 天气：${today.type || unavailable}`,
-      `🌡 气温：${today.low || "低温暂无数据"}  ${today.high || "高温暂无数据"}`,
-      `💧 湿度：${result.data.shidu || unavailable}`,
-      `💨 空气质量：${result.data.quality || unavailable}`,
-      `☁️ PM2.5：${result.data.pm25 ?? unavailable}`,
-      `☁️ PM10：${result.data.pm10 ?? unavailable}`,
-      `🪁 风向：${today.fx || unavailable}`,
-      `🌪 风力：${today.fl || unavailable}`,
-      `🌅 日出：${today.sunrise || unavailable}`,
-      `🌇 日落：${today.sunset || unavailable}`,
-      `🏷 温馨提示：${today.notice || unavailable}`
+      `城市：${city.city || "未知"}`,
+      `更新时间：${city.updateTime || unavailable}`,
+      `天气：${today.type || unavailable}`,
+      `气温：${today.low || "低温暂无数据"}  ${today.high || "高温暂无数据"}`,
+      `湿度：${result.data.shidu || unavailable}`,
+      `空气质量：${result.data.quality || unavailable}`,
+      `PM2.5：${result.data.pm25 ?? unavailable}`,
+      `PM10：${result.data.pm10 ?? unavailable}`,
+      `风向：${today.fx || unavailable}`,
+      `风力：${today.fl || unavailable}`,
+      `日出：${today.sunrise || unavailable}`,
+      `日落：${today.sunset || unavailable}`,
+      `温馨提示：${today.notice || unavailable}`
     ];
     $done({ title: panelTitle, content: lines.join("\n"), icon: params.icon || "sun.max.fill", "icon-color": params.color || "#ffc400" });
   } catch (e) {
