@@ -1,0 +1,11 @@
+#!name=Weather
+#!desc=今日天气
+#!category=Panels
+#!arguments=cityId:101220101
+#!homepage=https://whatshub.top
+
+[Panel]
+Weather = script-name=Weather
+
+[Script]
+Weather = type=generic,script-path=https://raw.githubusercontent.com/Vaerios/Nyora/refs/heads/Surge/Script/Weather/Weather.js,argument=icon=sun.max.fill&color=%23ffc400&cityId={{{cityId}}}
