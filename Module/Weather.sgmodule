@@ -3,7 +3,7 @@
 #!desc=今日天气预报
 #!category=Panels
 #!arguments=cityId:101220101
-#!homepage=https://whatshub.top
+#!arguments-desc=请正确填写城市代码
 #!category=Mystic
 
 [Panel]
