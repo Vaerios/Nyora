@@ -1,8 +1,10 @@
 #!name=Weather
+#!author=Acher
 #!desc=今日天气
 #!category=Panels
 #!arguments=cityId:101220101
 #!homepage=https://whatshub.top
+#!category=Mystic
 
 [Panel]
 Weather = script-name=Weather
