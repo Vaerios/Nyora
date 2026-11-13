@@ -3,7 +3,7 @@
 #!desc=实时油价查询
 #!category=Panels
 #!arguments=provname:安徽
-#!arguments-desc=provname:请填写省份名称
+#!arguments-desc=请填写省份名称，例如：安徽、江苏、浙江等
 #!category=Mystic
 
 [Panel]
