@@ -1,7 +1,7 @@
 #!name=Airport Usage
 #!desc=机场订阅流量动态监测
-#!arguments=subscription_url,display_name:WestData
-#!arguments-desc=subscription_url 填机场完整原始订阅链接；display_name 填面板名称。脚本从 Vaerios/Nyora 自动下载，无需复制本地 JS。订阅链接仅填本机参数，不要写入公开文件。
+#!arguments=subscription_url,display_name:Mystic
+#!arguments-desc=填机场完整原始订阅链接
 #!category=Mystic
 
 [Script]
