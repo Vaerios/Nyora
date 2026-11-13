@@ -1,6 +1,6 @@
 #!name=Weather
 #!author=Acher
-#!desc=今日天气
+#!desc=今日天气预报
 #!category=Panels
 #!arguments=cityId:101220101
 #!homepage=https://whatshub.top
