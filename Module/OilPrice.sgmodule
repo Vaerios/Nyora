@@ -1,8 +1,10 @@
 #!name=Oil Price
+#!author=Acher
 #!desc=实时油价查询
 #!category=Panels
 #!arguments=provname:安徽
-#!arguments-desc=provname:填写省份名称，例如安徽、江苏、广东、浙江
+#!arguments-desc=provname:请填写省份名称
+#!category=Mystic
 
 [Panel]
 今日油价 = script-name=OilPrice,update-interval=3600
