@@ -10,4 +10,4 @@
 今日油价 = script-name=OilPrice,update-interval=3600
 
 [Script]
-OilPrice = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/Scripts/OilPricePanel.js,argument=icon=car&color=%23c932a9&provname={{{provname}}}
+OilPrice = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/Vaerios/Nyora/refs/heads/Surge/Script/OilPrice/OilPrice.js,argument=icon=car&color=%23c932a9&provname={{{provname}}}
