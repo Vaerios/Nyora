@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,opal.google.com
 AND,((DOMAIN-KEYWORD,antigravity-auto-updater-),(DOMAIN-SUFFIX,run.app))
 
 # Copilot
+DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,licensing.m365.svc.cloud.microsoft
 DOMAIN,login.microsoftonline.com
 DOMAIN,m365.cloud.microsoft
@@ -96,6 +97,11 @@ DOMAIN,titles.prod.mos.microsoft.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,githubcopilot.com
+
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
 
 # Perplexity / Grok / Meta
 DOMAIN,ai.developer.meta.com
