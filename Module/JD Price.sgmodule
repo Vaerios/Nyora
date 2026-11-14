@@ -2,7 +2,7 @@
 #!author=Acher
 #!desc=京东历史价格
 #!arguments=MMMCK_SCRIPT:慢慢买CK
-#!arguments-desc=[参数设置]\n1. MMMCK_SCRIPT:慢慢买CK 脚本前往慢慢买App获取Cookie\n2.避免不必要的重写，禁用请设置为"#"
+#!arguments-desc=前往慢慢买App获取Cookie
 #!category=Mystic
 
 [Script]
