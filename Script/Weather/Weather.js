@@ -24,7 +24,7 @@ $httpClient.get(apiUrl, (error, response, data) => {
 
     const lines = [
       `城市：${city.city || "未知"}`,
-      `更新时间：${city.updateTime || unavailable}`,
+      `更新时间：${formatUpdateTime(result.date, city.updateTime)}`,
       `天气：${appearance.emoji} ${weatherType || unavailable}`,
       `气温：${today.low || "低温暂无数据"}  ${today.high || "高温暂无数据"}`,
       `湿度：${result.data.shidu || unavailable}`,
@@ -50,6 +50,15 @@ $httpClient.get(apiUrl, (error, response, data) => {
     finishError("无法读取天气数据，请稍后重试。", e);
   }
 });
+
+function formatUpdateTime(date, updateTime) {
+  const day = String(date ?? "").trim().replace(/^(\d{4})(\d{2})(\d{2})$/, "$1-$2-$3");
+  const clock = /^([01]?\d|2[0-3]):([0-5]\d)(?::[0-5]\d)?$/.exec(String(updateTime ?? "").trim());
+  if (!/^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])$/.test(day) || !clock) {
+    return updateTime || unavailable;
+  }
+  return `${day} ${clock[1].padStart(2, "0")}:${clock[2]}`;
+}
 
 function getWeatherAppearance(weatherType) {
   const type = String(weatherType || "").trim();
