@@ -3,7 +3,6 @@
     "icons": [
          { "name": "Acher", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Acher.png"},
          { "name": "Ai", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Ai.png"},
-         { "name": "AI", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/AI.png"},
          { "name": "Australia", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Australia.png"},
          { "name": "Bilibili", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Bilibili.png"},
          { "name": "ChatGPT", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/ChatGPT.png"},
@@ -13,6 +12,7 @@
          { "name": "Discord", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Discord.png"},
          { "name": "Disney", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Disney.png"},
          { "name": "Earth", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Earth.png"},
+         { "name": "Emby", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Emby.png"},
          { "name": "Facebook", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Facebook.png"},
          { "name": "Gemini", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/Gemini.png"},
          { "name": "HBO", "url": "https://raw.githubusercontent.com/Vaerios/Nyora/Surge/icon/HBO.png"},
