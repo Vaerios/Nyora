@@ -35,10 +35,10 @@
 
 | 平台 | 主配置 | 使用说明 |
 |:---:|:---|:---|
-| **iOS** | [Surge_iOS.conf](./File/Surge_iOS.conf) | iPhone / iPad，支持当前配置的 Surge 版本 |
-| **macOS** | [Surge_MacOS.conf](./File/Surge_MacOS.conf) | Mac，包含独立的 HTTP API / MCP 设置 |
+| **iOS** | [Mystic.conf](./File/Mystic.conf) | iPhone / iPad，支持当前配置的 Surge 版本 |
+| **macOS** | [MysticMacOS.conf](./File/MysticMacOS.conf) | Mac，包含独立的 HTTP API / MCP 设置 |
 
-**原始文件地址：** [iOS](https://raw.githubusercontent.com/Vaerios/Nyora/Surge/File/Surge_iOS.conf) · [macOS](https://raw.githubusercontent.com/Vaerios/Nyora/Surge/File/Surge_MacOS.conf)
+**原始文件地址：** [iOS](https://raw.githubusercontent.com/Vaerios/Nyora/Surge/File/Mystic.conf) · [macOS](https://raw.githubusercontent.com/Vaerios/Nyora/Surge/File/MysticMacOS.conf)
 
 ## 策略架构
 
